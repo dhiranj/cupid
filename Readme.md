@@ -23,7 +23,7 @@ This project implements a simple music recommendation system using FastAPI. User
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:dhiranj/cupid.git
    cd cupid
    pip install requirements.txt
 
