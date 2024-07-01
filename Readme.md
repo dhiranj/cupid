@@ -25,7 +25,9 @@ This project implements a simple music recommendation system using FastAPI. User
    ```bash
    git clone git@github.com:dhiranj/cupid.git
    cd cupid
-   pip install requirements.txt
+   python3 -m venv myenv
+   source myenv/bin/activate
+   pip install -r requirements.txt
 
 
 ### Running the Server
