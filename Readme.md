@@ -89,6 +89,11 @@ This project implements a simple music recommendation system using FastAPI. User
          }'
 
 
+### Testing
+1. **Run tests using pytest:**
+
+   ```bash
+   pytest
 
 
 
