@@ -96,10 +96,3 @@ This project implements a simple music recommendation system using FastAPI. User
 
    ```bash
    pytest
-
-
-
-
-
-
-
